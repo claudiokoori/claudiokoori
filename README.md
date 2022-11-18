@@ -23,7 +23,3 @@ Atualmente estou graduando Análise e Desenvolvimento de Sistemas, desde pequeno
 
 
 
-
-<a href="https://www.youtube.com/channel/UCCAteuyJOAcEhxF6sJh3nyw" alt="Youtube" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
