@@ -17,7 +17,6 @@
 </div><br>
 Atualmente estou graduando Análise e Desenvolvimento de Sistemas, desde pequeno amo usar o computador, jogar jogos, assistir. Falando sobre assistir, amo esportes tanto tradicionais como Futebol, Basquete e Futebol Americano, como também amo esportes eletrônicos como CSGO!
 
-[go](http://seusite.com){:target="_blank"}
 
 
 
