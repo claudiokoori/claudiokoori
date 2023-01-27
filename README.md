@@ -18,6 +18,7 @@
 <img   alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img   alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="html15" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
 </div><br>
 Atualmente estou graduando Análise e Desenvolvimento de Sistemas, desde pequeno amo usar o computador, jogar jogos, assistir. Falando sobre assistir, amo esportes tanto tradicionais como Futebol, Basquete e Futebol Americano, como também amo esportes eletrônicos como CSGO!
 
