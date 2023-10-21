@@ -25,7 +25,7 @@
   
 
 </div><br>
-Atualmente estou graduando Análise e Desenvolvimento de Sistemas, desde pequeno amo usar o computador, jogar jogos, assistir. Falando sobre assistir, amo esportes tanto tradicionais como Futebol, Basquete e Futebol Americano, como também amo esportes eletrônicos como CSGO!
+Apaixonado por tecnologia desde de pequeno, comecei minha jornada no mundo do Desenvolvimento, acabei me apaixonando pela plataforma .NET e pela linguagem C#, hoje busco me aprimorar cada vez mais e me tornar um exclente Desenvolvedor .NET completo!
 
 
 
