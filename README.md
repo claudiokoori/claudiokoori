@@ -25,7 +25,7 @@
   
 
 </div><br>
-Apaixonado por tecnologia desde de pequeno, comecei minha jornada no mundo do Desenvolvimento, acabei me apaixonando pela plataforma .NET e pela linguagem C#, hoje busco me aprimorar cada vez mais e me tornar um exclente Desenvolvedor .NET completo!
+Apaixonado por tecnologia desde de pequeno, comecei minha jornada no mundo do Desenvolvimento, acabei me apaixonando pela plataforma .NET e pela linguagem C#, hoje busco me aprimorar cada vez mais e me tornar um excelente Desenvolvedor .NET completo!
 
 
 
